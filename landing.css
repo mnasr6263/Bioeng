@@ -1,0 +1,13 @@
+body {
+    margin: 80px;
+    text-align: center;
+}
+
+.loginbutton {
+  background-color: #ff0000; /* Red */
+  border: solid;
+  color: black;
+  paddding: 15px 32px 10px 12px
+
+}
+/* Copied from browser using f12 */
